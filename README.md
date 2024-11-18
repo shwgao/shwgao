@@ -1,19 +1,15 @@
-## Hi there 👋
-
 # Shouwei Gao's GitHub Profile 👋
 
-Welcome to my GitHub profile! I am a **Doctoral Student in Computer Science** at **Oregon State University** with a strong interest in **AI for Science, Model Compression, and Efficient AI**.
+Hi, there! Welcome to my GitHub profile! I am a **Doctoral Student in Computer Science** at **Oregon State University** with a strong interest in **AI for Science, Model Compression, and Efficient AI**.
+
 
 ## 🎓 Education
+
 - **Doctorate in Computer Science**
   Oregon State University (08/2024–Now)
   Florida International University (08/2023–08/2024)
   *Research Interest:* Efficient AI, AI for Science, Model Compression, Explainable AI.
   Miami, FL --> Corvallis, OR : Hot --> Cold: East --> West. Interesting experience.
-  <!-- <p align="center">
-  <img src="./assets/shouwei.jpg" width="400" alt="Image 1" style="display: inline-block; margin: 0 0px;">
-  <img src="./assets/oregon.png" width="400"  alt="Image 2" style="display: inline-block; margin: 0 0px;">
-</p> -->
 
 - **Master of Engineering in Electronic Information**  
   University of Electronic Science and Technology of China (09/2020–06/2023)  
@@ -21,6 +17,15 @@ Welcome to my GitHub profile! I am a **Doctoral Student in Computer Science** at
 
 - **Bachelor of Science in Energy and Power Engineering**  
   Xi Hua University (09/2014–06/2018)
+
+
+## 🔥 Ongoing Projects
+- **Mitigating the Memory Peak Bottleneck in Scientific Foundation Models**
+  - We have proposed a method to alleviate the memory peak bottleneck encountered in scientific foundation models. Our approach is grounded in the computation graph paradigm, where we identify and eliminate unused nodes and edges. Furthermore, we employ a pipeline strategy to efficiently execute large operators.
+
+- **Self-Guided Pruning and Feature Selection for Scientific AI Models**
+  - We proposed an end-to-end, self-guided, and user-friendly framework for efficient feature selection and model compression. The proposed method is structured pruning, which enables model speedup and accuracy enhancement. (*Paper under review(IPDPS 2025)*)
+
 
 ## 💼 Work Experience
 - **Automation Equipment Maintenance Engineer**  
