@@ -3,7 +3,6 @@
 
 Hi, there! Welcome to my GitHub profile! I am a **Doctoral Student in Computer Science** at **Oregon State University** with a strong interest in **AI for Science, Model Compression, and Efficient AI, and Machine Learning Systems**.
 
-
 ## 🎓 Education
 
 - **Doctorate in Computer Science**
@@ -36,22 +35,6 @@ Hi, there! Welcome to my GitHub profile! I am a **Doctoral Student in Computer S
   <img src="./assets/IMG_0900.jpg" width="400" height="300" alt="Image 1" style="display: inline-block; margin: 0 0px;">
   <img src="./assets/image.png" width="400" height="300" alt="Image 2" style="display: inline-block; margin: 0 0px;">
 </p>
-
-<!-- ## 🚀 Projects
-- **Efficient AI Foundation Models** (05/2024–Present)  
-  Developing accessible transformer-based AI models for broad usage.
-
-- **Self-Guided Pruning for Scientific AI Models** (12/2023–04/2024)  
-  Implemented a reparameterization technique for efficient gradient descent learning. (*Paper under review*)
-
-- **Hurricane Tracks Generation** (07/2023–12/2023)  
-  Combined ARIMA, K-MEANS, and Autoencoders for refined hurricane simulations. (*arXiv Preprint*)
-
-- **Defect Detection Based on Deep Learning** (10/2021–01/2023)  
-  Created a real-time defect detection system with C++ and Qt. (*Published in ICSMD 2022*)
-
-- **X-ray Image-Aided Diagnosis Algorithm for COVID-19 Pneumonia** (03/2021–07/2021)  
-  Developed a classification system for X-ray images with practical applications. -->
 
 ## 🏆 Achievements
 - **2022 Huawei Software Elite Challenge** – Second Prize (7th/611)  
