@@ -3,6 +3,8 @@
 
 Hi, there! Welcome to my GitHub profile! I am a **Doctoral Student in Computer Science** at **Oregon State University** with a strong interest in **AI for Science, Model Compression, and Efficient AI, and Machine Learning Systems**.
 
+<!-- ## [CV](./CV%2012152024.pdf) -->
+
 ## 🎓 Education
 
 - **Doctorate in Computer Science**
