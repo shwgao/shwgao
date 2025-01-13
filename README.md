@@ -38,10 +38,14 @@ Hi, there! Welcome to my GitHub profile! I am a **Doctoral Student in Computer S
   <img src="./assets/image.png" width="400" height="300" alt="Image 2" style="display: inline-block; margin: 0 0px;">
 </p>
 
-## 🏆 Achievements
+## Skills and Familar tools
+- **Programming Languages:** Python, C/C++, MATLAB.
+- **Tools:** Pytorch, Tensorflow, Nsight system, Nsight compute, etc.
+
+<!-- ## 🏆 Achievements
 - **2022 Huawei Software Elite Challenge** – Second Prize (7th/611)  
 - **2022 Huawei Embedded Software Contest** – 8th/48  
-- **2022 ZTE Software Elite Challenge** – Image Denoising Algorithm Contest
+- **2022 ZTE Software Elite Challenge** – Image Denoising Algorithm Contest -->
 
 ---
 
