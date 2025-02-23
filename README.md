@@ -5,7 +5,6 @@ Hi, there! Welcome to my GitHub profile! I am a **Doctoral Student in Computer S
 
 <!-- ## [CV](./CV%2012152024.pdf) -->
 
-
 ## 🎓 Education
 
 - **Doctorate in Computer Science**
@@ -20,6 +19,11 @@ Hi, there! Welcome to my GitHub profile! I am a **Doctoral Student in Computer S
 
 - **Bachelor of Science in Energy and Power Engineering**  
   Xi Hua University (09/2014–06/2018)
+
+
+## Skills and Familar tools
+- **Programming Languages:** Python, C/C++, MATLAB.
+- **Tools:** Pytorch, Tensorflow, Nsight system, Nsight compute, etc.
 
 
 <!-- ## 🔥 Ongoing Projects
@@ -37,10 +41,6 @@ Hi, there! Welcome to my GitHub profile! I am a **Doctoral Student in Computer S
   <img src="./assets/IMG_0900.jpg" width="400" height="300" alt="Image 1" style="display: inline-block; margin: 0 0px;">
   <img src="./assets/image.png" width="400" height="300" alt="Image 2" style="display: inline-block; margin: 0 0px;">
 </p>
-
-## Skills and Familar tools
-- **Programming Languages:** Python, C/C++, MATLAB.
-- **Tools:** Pytorch, Tensorflow, Nsight system, Nsight compute, etc.
 
 <!-- ## 🏆 Achievements
 - **2022 Huawei Software Elite Challenge** – Second Prize (7th/611)  
