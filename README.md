@@ -33,6 +33,9 @@ Hi, there! Welcome to my GitHub profile! I am a **Doctoral Student in Computer S
 - **Self-Guided Pruning and Feature Selection for Scientific AI Models**
   - We proposed an end-to-end, self-guided, and user-friendly framework for efficient feature selection and model compression. The proposed method is structured pruning, which enables model speedup and accuracy enhancement. (*Paper under review(IPDPS 2025)*) -->
 
+Teaching Assistant:
+- CSC 599: Advanced Topics in Deep Learning & High-performance Computing
+
 ## 💼 Work Experience
 - **Automation Equipment Maintenance Engineer**  
   Sichuan Datang International Ganzi Hydropower Development Co., Ltd. (07/2018–08/2019)
