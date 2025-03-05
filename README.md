@@ -11,7 +11,6 @@ Hi, there! Welcome to my GitHub profile! I am a **Doctoral Student in Computer S
   Oregon State University (08/2024–Now)
   Florida International University (08/2023–08/2024)
   *Research Interest:* Efficient AI, AI for Science, Model Compression, Explainable AI.
-  Miami, FL --> Corvallis, OR : Hot --> Cold: East --> West. Interesting experience.
 
 - **Master of Engineering in Electronic Information**  
   University of Electronic Science and Technology of China (09/2020–06/2023)  
