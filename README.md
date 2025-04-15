@@ -4,11 +4,14 @@
 Hi, there! Welcome to my GitHub profile! I am a **Doctoral Student in Computer Science** at **Oregon State University** with a strong interest in **AI for Science, Model Compression, and Efficient AI, and Machine Learning Systems**.
 
 <!-- ## [CV](./CV%2012152024.pdf) -->
+## News
+- 2025/03/31: I had a presentation on conference of AAAI 2025 symposium on GenAI@Edge.
+
 
 ## 🎓 Education
 
 - **Doctorate in Computer Science**
-  Oregon State University (08/2024–Now)
+  Oregon State University (08/2024–Now)(My boss brought me here)
   Florida International University (08/2023–08/2024)
   *Research Interest:* Efficient AI, AI for Science, Model Compression, Explainable AI.
 
@@ -34,6 +37,7 @@ Hi, there! Welcome to my GitHub profile! I am a **Doctoral Student in Computer S
 
 Teaching Assistant:
 - CSC 599: Advanced Topics in Deep Learning & High-performance Computing
+- CSC 381: Programming Languages
 
 ## 💼 Work Experience
 - **Automation Equipment Maintenance Engineer**  
