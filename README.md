@@ -4,7 +4,7 @@ Hi, there! Welcome to my GitHub profile! I am a **Doctoral Student in Computer S
 
 <!-- ## [CV](./CV%2012152024.pdf) -->
 ## News
-- 2025/03/31: I had a presentation on conference of AAAI 2025 symposium on GenAI@Edge.
+- 2025/03/31: I had a paper presentation on conference of AAAI 2025 symposium on GenAI@Edge.
 
 
 ## 🎓 Education
