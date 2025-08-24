@@ -43,8 +43,8 @@ Teaching Assistant:
   Sichuan Datang International Ganzi Hydropower Development Co., Ltd. (07/2018–08/2019)
   This is an interesting experience for me, I was working in a beautiful place in west of Sichuan Province, China. The job is about the maintenance of the equipment in the hydropower station. 
   <p align="center">
-  <img src="./assets/IMG_0900.jpg" width="400" height="300" alt="Image 1" style="display: inline-block; margin: 0 0px; object-fit: cover;">
-  <img src="./assets/image.png" width="400" height="300" alt="Image 2" style="display: inline-block; margin: 0 0px; object-fit: cover;">
+  <img src="./assets/IMG_0900.jpg" alt="Image 1" style="display: inline-block; margin: 0 10px; width: 400px; height: 300px; object-fit: cover; border: 1px solid #ddd;">
+  <img src="./assets/image.png" alt="Image 2" style="display: inline-block; margin: 0 10px; width: 400px; height: 300px; object-fit: cover; border: 1px solid #ddd;">
 </p>
 
 <!-- ## 🏆 Achievements
