@@ -4,6 +4,7 @@ Hi, there! Welcome to my GitHub profile! I am a **Doctoral Student in Computer S
 
 <!-- ## [CV](./CV%2012152024.pdf) -->
 ## News
+- 2025/09/08: I am currently working as an intern at Oak Ridge National Laboratory. My work is mainly about the large scale LLM deployment on GPU cluster.
 - 2025/03/31: I had a paper presentation on conference of AAAI 2025 symposium on GenAI@Edge.
 
 
