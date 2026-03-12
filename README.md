@@ -1,19 +1,22 @@
 # Shouwei Gao's GitHub Profile 👋
 
-Hi, there! Welcome to my GitHub profile! I am a **Doctoral Student in Computer Science** at **Oregon State University** with a strong interest in **AI for Science, Model Compression, and Efficient AI, and Machine Learning Systems**.
+Hi, there! Welcome to my GitHub profile! I am a **Doctoral Student in Computer Science** at **Oregon State University** with a strong interest in **LLM serving, AI for Science, and Efficient AI**. 
+I am closely working with vLLM and building some features on top of vLLM. I am open to opportunities that can work with the LLM inference and training system. Let's connect!
 
 <!-- ## [CV](./CV%2012152024.pdf) -->
 ## News
-- 2025/09/08: I am currently working as an intern at Oak Ridge National Laboratory. My work is mainly about the large scale LLM deployment on GPU cluster.
-- 2025/03/31: I had a paper presentation on conference of AAAI 2025 symposium on GenAI@Edge.
+- 02/2026: My paper "FLYING SERVING: On-the-Fly Parallelism Switching for Large Language Model Serving" is accepted in ACM International Conference on Supercomputing (ICS'26).
+- 12/2025: My paper "LUMOS: Democratizing SciML Workflows with L0-Regularized Learning for Unified Feature and Parameter Adaptation" is accepted in IPDPS'26.
+- 09/2025: I will work as an intern at Oak Ridge National Laboratory. My work focuses mainly on large-scale LLM deployment on a GPU cluster.
+- 03/2025: I had a paper presentation on conference of AAAI 2025 symposium on GenAI@Edge.
+- 02/2025: My paper "HurriCast: Synthetic Tropical Cyclone Track Generation for Hurricane Forecasting" is accepted to the SSS-25 symposium at AAAI 2025.
 
 
 ## 🎓 Education
 
 - **Doctorate in Computer Science**
-  Oregon State University (08/2024–Now)(My boss brought me here)
-  Florida International University (08/2023–08/2024)
-  *Research Interest:* Efficient AI, AI for Science, Model Compression, Explainable AI.
+  Oregon State University (08/2023–Now)
+  *Research Interest:* LLM serving, Efficient AI, AI for Science, and Explainable AI.
 
 - **Master of Engineering in Electronic Information**  
   University of Electronic Science and Technology of China (09/2020–06/2023)  
@@ -25,10 +28,13 @@ Hi, there! Welcome to my GitHub profile! I am a **Doctoral Student in Computer S
 
 ## Skills and Familar tools
 - **Programming Languages:** Python, C/C++, MATLAB.
-- **Tools:** Pytorch, Tensorflow, Nsight system, Nsight compute, cuda programming, etc.
+- **Tools:** Pytorch, vLLM, SGLang, Tensorflow, Nsight system, Nsight compute, cuda programming, etc.
 
 
 <!-- ## 🔥 Ongoing Projects
+- **Elastic LLM serving system**
+  - LLM serving is fundamentally a system of trade-offs. To achieve optimal performance, we aim to endow the serving infrastructure with the flexibility and adaptability necessary to gracefully handle highly dynamic and fluctuating workloads.
+
 - **Mitigating the Memory Peak Bottleneck in Scientific Foundation Models**
   - We have proposed a method to alleviate the memory peak bottleneck encountered in scientific foundation models. Our approach is grounded in the computation graph paradigm, where we identify and eliminate unused nodes and edges. Furthermore, we employ a pipeline strategy to efficiently execute large operators.
 
@@ -42,11 +48,6 @@ Teaching Assistant:
 ## 💼 Work Experience
 - **Automation Equipment Maintenance Engineer**  
   Sichuan Datang International Ganzi Hydropower Development Co., Ltd. (07/2018–08/2019)
-  This is an interesting experience for me, I was working in a beautiful place in west of Sichuan Province, China. The job is about the maintenance of the equipment in the hydropower station. 
-  <p align="center">
-  <img src="./assets/IMG_0900.jpg" alt="Image 1" style="display: inline-block; margin: 0 10px; width: 400px; height: 300px; object-fit: cover; border: 1px solid #ddd;">
-  <img src="./assets/image.png" alt="Image 2" style="display: inline-block; margin: 0 10px; width: 400px; height: 300px; object-fit: cover; border: 1px solid #ddd;">
-</p>
 
 <!-- ## 🏆 Achievements
 - **2022 Huawei Software Elite Challenge** – Second Prize (7th/611)  
