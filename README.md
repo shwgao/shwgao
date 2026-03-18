@@ -5,11 +5,11 @@ I am closely working with vLLM and building some features on top of vLLM. I am o
 
 <!-- ## [CV](./CV%2012152024.pdf) -->
 ## News
-- 02/2026: My paper "FLYING SERVING: On-the-Fly Parallelism Switching for Large Language Model Serving" is accepted in ACM International Conference on Supercomputing (ICS'26).
-- 12/2025: My paper "LUMOS: Democratizing SciML Workflows with L0-Regularized Learning for Unified Feature and Parameter Adaptation" is accepted in IPDPS'26.
+- 02/2026: Our paper "FLYING SERVING: On-the-Fly Parallelism Switching for Large Language Model Serving" is accepted in ACM International Conference on Supercomputing (ICS'26).
+- 12/2025: Our paper "LUMOS: Democratizing SciML Workflows with L0-Regularized Learning for Unified Feature and Parameter Adaptation" is accepted in IPDPS'26.
 - 09/2025: I will work as an intern at Oak Ridge National Laboratory. My work focuses mainly on large-scale LLM deployment on a GPU cluster.
 - 03/2025: I had a paper presentation on conference of AAAI 2025 symposium on GenAI@Edge.
-- 02/2025: My paper "HurriCast: Synthetic Tropical Cyclone Track Generation for Hurricane Forecasting" is accepted to the SSS-25 symposium at AAAI 2025.
+- 02/2025: Our paper "HurriCast: Synthetic Tropical Cyclone Track Generation for Hurricane Forecasting" is accepted to the SSS-25 symposium at AAAI 2025.
 
 
 ## 🎓 Education
@@ -26,7 +26,7 @@ I am closely working with vLLM and building some features on top of vLLM. I am o
   Xi Hua University (09/2014–06/2018)
 
 
-## Skills and Familar tools
+## Skills and Familiar tools
 - **Programming Languages:** Python, C/C++, MATLAB.
 - **Tools:** Pytorch, vLLM, SGLang, Tensorflow, Nsight system, Nsight compute, cuda programming, etc.
 
