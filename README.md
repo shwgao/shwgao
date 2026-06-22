@@ -42,6 +42,7 @@ I am closely working with vLLM and building some features on top of vLLM. I am o
   - We proposed an end-to-end, self-guided, and user-friendly framework for efficient feature selection and model compression. The proposed method is structured pruning, which enables model speedup and accuracy enhancement. (*Paper under review(IPDPS 2025)*) -->
 
 Teaching Assistant:
+- CS 475/575(2026 Spring): INTRO TO PARALLEL PROGRAMMING
 - CSC 599: Advanced Topics in Deep Learning & High-performance Computing
 - CSC 381: Programming Languages
 
