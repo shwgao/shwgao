@@ -5,6 +5,8 @@ I am closely working with vLLM and building some features on top of vLLM. I am o
 
 <!-- ## [CV](./CV%2012152024.pdf) -->
 ## News
+- 05/2026: Our paper "FLYING SERVING: On-the-Fly Parallelism Switching for Large Language Model Serving" is selected as the best paper candidate.
+- 04/2026: One co-author paper "Evaluating LLM Coding Agents on SZ-Family Lossy Compression Across Architectures" is accepted in IPDPS 2026 HPAI4S.
 - 02/2026: Our paper "FLYING SERVING: On-the-Fly Parallelism Switching for Large Language Model Serving" is accepted in ACM International Conference on Supercomputing (ICS'26).
 - 12/2025: Our paper "LUMOS: Democratizing SciML Workflows with L0-Regularized Learning for Unified Feature and Parameter Adaptation" is accepted in IPDPS'26.
 - 09/2025: I will work as an intern at Oak Ridge National Laboratory. My work focuses mainly on large-scale LLM deployment on a GPU cluster.
