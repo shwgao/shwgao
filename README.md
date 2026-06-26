@@ -3,8 +3,6 @@
 Hi, there! Welcome to my GitHub profile! I am a **Doctoral Student in Computer Science** at **Oregon State University** with a strong interest in **LLM serving, AI for Science, and Efficient AI**. 
 I am closely working with vLLM and building some features on top of vLLM. I am open to opportunities that can work with the LLM inference and training system. Let's connect!
 
-## 📄 [Curriculum Vitae (PDF)](./Shouwei_Gao_CV.pdf)
-
 ## News
 - 05/2026: Our paper "FLYING SERVING: On-the-Fly Parallelism Switching for Large Language Model Serving" is selected as the best paper candidate.
 - 04/2026: I received the **OSU Graduate Student Scholarly Presentation Award** 🎉.
