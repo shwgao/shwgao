@@ -3,9 +3,11 @@
 Hi, there! Welcome to my GitHub profile! I am a **Doctoral Student in Computer Science** at **Oregon State University** with a strong interest in **LLM serving, AI for Science, and Efficient AI**. 
 I am closely working with vLLM and building some features on top of vLLM. I am open to opportunities that can work with the LLM inference and training system. Let's connect!
 
-<!-- ## [CV](./CV%2012152024.pdf) -->
+## 📄 [Curriculum Vitae (PDF)](./Shouwei_Gao_CV.pdf)
+
 ## News
 - 05/2026: Our paper "FLYING SERVING: On-the-Fly Parallelism Switching for Large Language Model Serving" is selected as the best paper candidate.
+- 04/2026: I received the **OSU Graduate Student Scholarly Presentation Award** 🎉.
 - 04/2026: One co-author paper "Evaluating LLM Coding Agents on SZ-Family Lossy Compression Across Architectures" is accepted in IPDPS 2026 HPAI4S.
 - 02/2026: Our paper "FLYING SERVING: On-the-Fly Parallelism Switching for Large Language Model Serving" is accepted in ACM International Conference on Supercomputing (ICS'26).
 - 12/2025: Our paper "LUMOS: Democratizing SciML Workflows with L0-Regularized Learning for Unified Feature and Parameter Adaptation" is accepted in IPDPS'26.
@@ -28,6 +30,14 @@ I am closely working with vLLM and building some features on top of vLLM. I am o
   Xi Hua University (09/2014–06/2018)
 
 
+## 🏆 Honors & Awards
+- **OSU Graduate Student Scholarly Presentation Award**, Oregon State University (2026)
+- **Best Paper Candidate**, ACM International Conference on Supercomputing (ICS 2026)
+- **Second Prize (7th/611)**, 2022 Huawei Software Elite Challenge
+- **2022 Huawei Embedded Software Contest** — 8th/48
+- **2022 ZTE Software Elite Challenge** — Image Denoising Algorithm Contest
+
+
 ## Skills and Familiar tools
 - **Programming Languages:** Python, C/C++, MATLAB.
 - **Tools:** Pytorch, vLLM, SGLang, Tensorflow, Nsight system, Nsight compute, cuda programming, etc.
@@ -43,7 +53,7 @@ I am closely working with vLLM and building some features on top of vLLM. I am o
 - **Self-Guided Pruning and Feature Selection for Scientific AI Models**
   - We proposed an end-to-end, self-guided, and user-friendly framework for efficient feature selection and model compression. The proposed method is structured pruning, which enables model speedup and accuracy enhancement. (*Paper under review(IPDPS 2025)*) -->
 
-Teaching Assistant:
+## 🧑‍🏫 Teaching Assistant
 - CS 475/575(2026 Spring): INTRO TO PARALLEL PROGRAMMING
 - CSC 599: Advanced Topics in Deep Learning & High-performance Computing
 - CSC 381: Programming Languages
@@ -52,15 +62,10 @@ Teaching Assistant:
 - **Automation Equipment Maintenance Engineer**  
   Sichuan Datang International Ganzi Hydropower Development Co., Ltd. (07/2018–08/2019)
 
-<!-- ## 🏆 Achievements
-- **2022 Huawei Software Elite Challenge** – Second Prize (7th/611)  
-- **2022 Huawei Embedded Software Contest** – 8th/48  
-- **2022 ZTE Software Elite Challenge** – Image Denoising Algorithm Contest -->
-
 ---
 
 📫 **Contact:**  
-- **Email:** [gaosho@oregonstate.edu](mailto:shwgao23@gmail.com)  
+- **Email:** [gaosho@oregonstate.edu](mailto:gaosho@oregonstate.edu)  
 
 Thank you for visiting my profile! Feel free to explore my repositories and collaborate on exciting projects.
 
